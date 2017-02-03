@@ -1,3 +1,3 @@
 # Testing Git functionality
 
-Other stuff that will conflict
+More info to add here.
